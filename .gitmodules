@@ -1,4 +1,0 @@
-[submodule "vue-router"]
-	path = vue-router
-	url = https://github.com/vuejs/vue-router.git
-	branch = dev
